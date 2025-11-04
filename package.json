@@ -1,0 +1,11 @@
+{
+  "name": "kokoro-reader",
+  "version": "0.1.0",
+  "description": "Offline-first Chrome extension scaffold for Kokoro 82M text-to-speech.",
+  "scripts": {
+    "test": "node --test",
+    "prepare-kokoro": "node scripts/prepare-kokoro.js",
+    "build-voicebank": "node scripts/build-voicebank.js"
+  },
+  "devDependencies": {}
+}

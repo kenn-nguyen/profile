@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "name": "kokoro-82m-int8.onnx",
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-82m-int8.onnx",
+      "compress": "brotli"
+    }
+  ]
+}

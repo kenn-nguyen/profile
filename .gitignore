@@ -1,0 +1,4 @@
+node_modules/
+extension/models/*.br
+extension/models/manifest.json
+kokoro-assets.json
